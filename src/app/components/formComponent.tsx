@@ -39,7 +39,7 @@ const Form: React.FC = () => {
         </div>
 
         <div className="space-y-2">
-          <label htmlFor="fechaDeNacimiento">Feha de naciimiento:</label>
+          <label htmlFor="fechaDeNacimiento">Feha de nacimiento:</label>
           <input
             type="date"
             id="fechaDeNacimiento"
